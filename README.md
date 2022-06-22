@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-VihangaJanith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vihanga-janith-a03717207/)](https://www.linkedin.com/in/vihanga-janith-a03717207/)
-[![Medium Badge](https://img.shields.io/badge/-Vihanga-Senadeera-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vihangasenadeera99)](https://medium.com/@vihangasenadeera99)
+[![Medium Badge](https://img.shields.io/badge/-VihangaSenadeera-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vihangasenadeera99)](https://medium.com/@vihangasenadeera99)
 
 
 
