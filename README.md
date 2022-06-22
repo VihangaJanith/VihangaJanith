@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vihanga Janith
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vihanga-janith-a03717207/)](https://www.linkedin.com/in/vihanga-janith-a03717207/)
+[![Linkedin Badge](https://img.shields.io/badge/-VihangaJanith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vihanga-janith-a03717207/)](https://www.linkedin.com/in/vihanga-janith-a03717207/)
 
 
 
