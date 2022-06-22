@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-VihangaJanith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vihanga-janith-a03717207/)](https://www.linkedin.com/in/vihanga-janith-a03717207/)
 [![Medium Badge](https://img.shields.io/badge/-VihangaSenadeera-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vihangasenadeera99)](https://medium.com/@vihangasenadeera99)
-[![Gmail Badge](https://img.shields.io/badge/-vihangaajanith99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vihangaajanith99@gmail.com)](mailto:vihangaajanith99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vihangajanith99-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vihangajanith99@gmail.com)](mailto:vihangajanith99@gmail.com)
 
 
 
